@@ -1,0 +1,21 @@
+# Entornos y cachés de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Datos personales y archivos temporales
+data/
+habits.json
+*.tmp
+
+# Configuración local
+.env
+.vscode/
+.idea/
+
+# Paquetes locales de entrega generados a partir de la documentación
+entregas/
